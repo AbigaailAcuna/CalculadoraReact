@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/Boton.css';
 
 //la clase boton contenedor será fija para todos pero si es num o si es operador se debe evaluar
 function Boton(props) {
